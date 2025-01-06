@@ -1,6 +1,6 @@
 {
-  "commit": "033103de9d17f0f899fac75ae295d31b00810367",
-  "generated": "2025-01-06T21:41:56.907Z",
+  "commit": "124d71eaf0a258cf6d9f572d27f3fd6fe6095cd8",
+  "generated": "2025-01-06T21:42:53.857Z",
   "metadata": [
     {
       "__outstatic": {
@@ -156,6 +156,26 @@
       "tags": [
       ],
       "title": "AAANothing is wrong. Everything is perfect"
+    },
+    {
+      "__outstatic": {
+        "commit": "124d71eaf0a258cf6d9f572d27f3fd6fe6095cd8",
+        "hash": "1819789055",
+        "path": "outstatic/content/posts/post-test-123.md"
+      },
+      "author": {
+        "name": "Teodor Todorov",
+        "picture": "https://avatars.githubusercontent.com/u/58886255?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-06T21:54:31.580Z",
+      "slug": "post-test-123",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "post test 123"
     }
   ]
 }
