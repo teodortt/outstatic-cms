@@ -1,6 +1,6 @@
 {
-  "commit": "124d71eaf0a258cf6d9f572d27f3fd6fe6095cd8",
-  "generated": "2025-01-06T21:42:53.857Z",
+  "commit": "326906db90310712c90c12f400766f501e964a48",
+  "generated": "2025-01-06T21:52:40.841Z",
   "metadata": [
     {
       "__outstatic": {
@@ -159,8 +159,8 @@
     },
     {
       "__outstatic": {
-        "commit": "124d71eaf0a258cf6d9f572d27f3fd6fe6095cd8",
-        "hash": "1819789055",
+        "commit": "326906db90310712c90c12f400766f501e964a48",
+        "hash": "2563915915",
         "path": "outstatic/content/posts/post-test-123.md"
       },
       "author": {
@@ -168,12 +168,16 @@
         "picture": "https://avatars.githubusercontent.com/u/58886255?v=4"
       },
       "collection": "posts",
-      "coverImage": "",
+      "coverImage": "/images/0-02-0a-005ccf30c0c4858149bb4204d75e1af14c0b88efadf6484956a68c25f982c3d3_269f98c29a6-g2MD.jpg",
       "description": "",
       "publishedAt": "2025-01-06T21:54:31.580Z",
       "slug": "post-test-123",
       "status": "published",
       "tags": [
+        {
+          "label": "NextJs",
+          "value": "nextJs"
+        }
       ],
       "title": "post test 123"
     }
