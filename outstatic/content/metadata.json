@@ -1,6 +1,6 @@
 {
-  "commit": "f240db75c21f12a17e87ad0802b10f47103a84f1",
-  "generated": "2025-01-06T22:00:58.953Z",
+  "commit": "239f9e894da8fa03c818f1a400bb5d9801d3e580",
+  "generated": "2025-01-06T22:09:27.566Z",
   "metadata": [
     {
       "__outstatic": {
@@ -180,6 +180,24 @@
         }
       ],
       "title": "First post"
+    },
+    {
+      "__outstatic": {
+        "commit": "239f9e894da8fa03c818f1a400bb5d9801d3e580",
+        "hash": "750985157",
+        "path": "outstatic/content/new/one.md"
+      },
+      "author": {
+        "name": "Teodor Todorov",
+        "picture": "https://avatars.githubusercontent.com/u/58886255?v=4"
+      },
+      "collection": "new",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-06T22:21:01.723Z",
+      "slug": "one",
+      "status": "published",
+      "title": "one"
     }
   ]
 }
