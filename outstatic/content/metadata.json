@@ -1,6 +1,6 @@
 {
-  "commit": "326906db90310712c90c12f400766f501e964a48",
-  "generated": "2025-01-06T21:54:54.771Z",
+  "commit": "f240db75c21f12a17e87ad0802b10f47103a84f1",
+  "generated": "2025-01-06T22:00:58.953Z",
   "metadata": [
     {
       "__outstatic": {
@@ -159,8 +159,8 @@
     },
     {
       "__outstatic": {
-        "commit": "326906db90310712c90c12f400766f501e964a48",
-        "hash": "1827062733",
+        "commit": "f240db75c21f12a17e87ad0802b10f47103a84f1",
+        "hash": "3120411163",
         "path": "outstatic/content/posts/post-test-123.md"
       },
       "author": {
@@ -179,7 +179,7 @@
           "value": "nextJs"
         }
       ],
-      "title": "post test 123"
+      "title": "First post"
     }
   ]
 }
