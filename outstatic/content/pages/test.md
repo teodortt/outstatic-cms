@@ -1,6 +1,6 @@
 ---
 title: 'TEST'
-status: 'draft'
+status: 'published'
 author:
   name: 'Teodor Todorov'
   picture: 'https://avatars.githubusercontent.com/u/58886255?v=4'
